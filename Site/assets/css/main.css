@@ -169,7 +169,7 @@
 		}
 
 		a:hover {
-			color: #ff7496;
+			color: #1a1a1a;
 		}
 
 	strong, b {
@@ -546,7 +546,8 @@
 					}
 
 					ul.icons li a:hover:before {
-						text-shadow: 1.25px 0px 0px #ff7496, -1.25px 0px 0px #ff7496, 0px 1.25px 0px #ff7496, 0px -1.25px 0px #ff7496;
+						color: #1a1a1a;
+						text-shadow: 1.25px 0px 0px #1a1a1a, -1.25px 0px 0px #1a1a1a 0px 1.25px 0px #1a1a1a, 0px -1.25px 0px #1a1a1a;
 					}
 
 					ul.icons li a:before {
@@ -562,7 +563,7 @@
 					}
 
 					ul.icons li a:hover {
-						border-color: #ff7496;
+						border-color: #1a1a1a;
 					}
 
 			@media screen and (max-width: 480px) {
@@ -732,7 +733,7 @@
 
 			#main .avatar img {
 				display: block;
-				width:500px;
+				width:400px;
 				margin: 0 auto;
 				border-radius: 100%;
 				box-shadow: 0 0 0 1.5em #ffffff;
